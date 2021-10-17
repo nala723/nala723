@@ -17,8 +17,8 @@ Hi, I'm Bitnara Lee who is a front-end Developer from South Korea.
  ------------------------------------------------------
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nala723&layout=compact)](https://github.com/nala723/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nala723&layout=compact)](https://github.com/nala723/github-readme-stats)&nbsp; &nbsp;
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nala723&show_icons=true)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nala723&show_icons=true)  
 
