@@ -2,7 +2,7 @@
 
 Hi, I'm Bitnara Lee who is a front-end Developer from South Korea.
 
-
+<br></br>
 🛠 Stack
 -----------------------------------------------------------------------------------
 + **[ language ]**  Javascript(ES6+), HTML, CSS
@@ -12,6 +12,8 @@ Hi, I'm Bitnara Lee who is a front-end Developer from South Korea.
 + **[ DB&server ]** MySQL, Node.js
 
 + **[ Others ]** Git, Postman, Notion, Figma, Miro, Photoshop
+
+<br></br>
 
  📊 graph
  ------------------------------------------------------
