@@ -1,6 +1,6 @@
-# 💎 Front-end Developer, Bitnara Lee
+# 💎 UIUX Designer, Bitnara Lee
 
-Hi there! I'm Bitnara Lee who is a front-end Developer from South Korea.
+Hi there! I'm Bitnara Lee who is a uiux designer from South Korea.
 
 
 🛠 Stack
